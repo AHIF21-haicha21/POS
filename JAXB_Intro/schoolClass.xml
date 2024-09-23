@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<class classId="1256">
+    <className>4AHIF</className>
+    <avgGrade>1.4</avgGrade>
+    <startDate>09.09.2024</startDate>
+    <ranking>Excellent</ranking>
+    <grades>
+        <grade>1</grade>
+        <grade>2</grade>
+        <grade>3</grade>
+        <grade>4</grade>
+    </grades>
+    <classTeacher>
+        <first_name>Theresa</first_name>
+        <lastName>Reischl</lastName>
+        <schoolClass>4AHIF</schoolClass>
+        <subjects>
+            <subject>
+                <subjectName>BESP</subjectName>
+                <avgGrade>1.0</avgGrade>
+                <teacher>Reischl</teacher>
+            </subject>
+            <subject>
+                <subjectName>GGP</subjectName>
+                <avgGrade>5.0</avgGrade>
+                <teacher>Reischl</teacher>
+            </subject>
+        </subjects>
+    </classTeacher>
+</class>
