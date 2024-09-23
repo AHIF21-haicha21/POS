@@ -1,0 +1,216 @@
+{
+  "id" : 1,
+  "address" : "123 Main Street",
+  "name" : "Jackson Central Library",
+  "departments" : [ {
+    "name" : "Fiction",
+    "books" : [ {
+      "title" : "Moby Dick",
+      "isbn" : "978-0-123456-47-2",
+      "publicationYear" : 1851,
+      "author" : "Herman Melville",
+      "brand" : 3
+    }, {
+      "title" : "1984",
+      "isbn" : "978-0-123456-47-3",
+      "publicationYear" : 1949,
+      "author" : "George Orwell",
+      "brand" : 2
+    }, {
+      "title" : "To Kill a Mockingbird",
+      "isbn" : "978-0-123456-47-4",
+      "publicationYear" : 1960,
+      "author" : "Harper Lee",
+      "brand" : 4
+    } ],
+    "staff" : [ {
+      "id" : 2001,
+      "first_name" : "Emily",
+      "last_name" : "Jones",
+      "role" : "Manager",
+      "hireDate" : "2015-08-12"
+    }, {
+      "id" : 2002,
+      "first_name" : "Liam",
+      "last_name" : "Brown",
+      "role" : "Assistant",
+      "hireDate" : "2017-05-03"
+    } ]
+  }, {
+    "name" : "Non-Fiction",
+    "books" : [ {
+      "title" : "Sapiens: A Brief History of Humankind",
+      "isbn" : "978-0-123456-47-5",
+      "publicationYear" : 2011,
+      "author" : "Yuval Noah Harari",
+      "brand" : 3
+    }, {
+      "title" : "Educated",
+      "isbn" : "978-0-123456-47-6",
+      "publicationYear" : 2018,
+      "author" : "Tara Westover",
+      "brand" : 5
+    } ],
+    "staff" : [ {
+      "id" : 2003,
+      "first_name" : "Sophia",
+      "last_name" : "Wilson",
+      "role" : "Manager",
+      "hireDate" : "2013-04-20"
+    }, {
+      "id" : 2004,
+      "first_name" : "Noah",
+      "last_name" : "Taylor",
+      "role" : "Researcher",
+      "hireDate" : "2016-11-15"
+    } ]
+  }, {
+    "name" : "Science",
+    "books" : [ {
+      "title" : "Brief Answers to the Big Questions",
+      "isbn" : "978-0-123456-47-7",
+      "publicationYear" : 2018,
+      "author" : "Stephen Hawking",
+      "brand" : 6
+    }, {
+      "title" : "The Selfish Gene",
+      "isbn" : "978-0-123456-47-8",
+      "publicationYear" : 1976,
+      "author" : "Richard Dawkins",
+      "brand" : 2
+    }, {
+      "title" : "Cosmos",
+      "isbn" : "978-0-123456-47-9",
+      "publicationYear" : 1980,
+      "author" : "Carl Sagan",
+      "brand" : 3
+    } ],
+    "staff" : [ {
+      "id" : 2005,
+      "first_name" : "Olivia",
+      "last_name" : "Davis",
+      "role" : "Manager",
+      "hireDate" : "2014-03-11"
+    }, {
+      "id" : 2006,
+      "first_name" : "Ethan",
+      "last_name" : "White",
+      "role" : "Assistant",
+      "hireDate" : "2018-07-21"
+    }, {
+      "id" : 2007,
+      "first_name" : "Mason",
+      "last_name" : "Walker",
+      "role" : "Technician",
+      "hireDate" : "2019-09-09"
+    } ]
+  }, {
+    "name" : "History",
+    "books" : [ {
+      "title" : "The History of the Ancient World",
+      "isbn" : "978-0-123456-48-0",
+      "publicationYear" : 2007,
+      "author" : "Susan Wise Bauer",
+      "brand" : 2
+    }, {
+      "title" : "The Silk Roads",
+      "isbn" : "978-0-123456-48-1",
+      "publicationYear" : 2015,
+      "author" : "Peter Frankopan",
+      "brand" : 4
+    }, {
+      "title" : "Guns, Germs, and Steel",
+      "isbn" : "978-0-123456-48-2",
+      "publicationYear" : 1997,
+      "author" : "Jared Diamond",
+      "brand" : 3
+    } ],
+    "staff" : [ {
+      "id" : 2008,
+      "first_name" : "Isabella",
+      "last_name" : "Martinez",
+      "role" : "Researcher",
+      "hireDate" : "2016-01-30"
+    }, {
+      "id" : 2009,
+      "first_name" : "Lucas",
+      "last_name" : "Hernandez",
+      "role" : "Manager",
+      "hireDate" : "2012-06-14"
+    } ]
+  }, {
+    "name" : "Technology",
+    "books" : [ {
+      "title" : "The Innovators",
+      "isbn" : "978-0-123456-48-3",
+      "publicationYear" : 2014,
+      "author" : "Walter Isaacson",
+      "brand" : 5
+    }, {
+      "title" : "Clean Code",
+      "isbn" : "978-0-123456-48-4",
+      "publicationYear" : 2008,
+      "author" : "Robert C. Martin",
+      "brand" : 8
+    }, {
+      "title" : "The Pragmatic Programmer",
+      "isbn" : "978-0-123456-48-5",
+      "publicationYear" : 1999,
+      "author" : "Andrew Hunt",
+      "brand" : 4
+    } ],
+    "staff" : [ {
+      "id" : 2010,
+      "first_name" : "Ella",
+      "last_name" : "Moore",
+      "role" : "Technician",
+      "hireDate" : "2020-10-11"
+    }, {
+      "id" : 2011,
+      "first_name" : "James",
+      "last_name" : "Johnson",
+      "role" : "Manager",
+      "hireDate" : "2017-09-23"
+    }, {
+      "id" : 2012,
+      "first_name" : "Ava",
+      "last_name" : "Brown",
+      "role" : "Assistant",
+      "hireDate" : "2021-02-15"
+    } ]
+  }, {
+    "name" : "Technology",
+    "books" : [ {
+      "title" : "Mathefuerdummys",
+      "isbn" : "978-0-13-235088-4",
+      "publicationYear" : 2008,
+      "author" : "Sebastian",
+      "brand" : 5
+    }, {
+      "title" : "Posfuerdummys",
+      "isbn" : "978-0-201-61622-4",
+      "publicationYear" : 1999,
+      "author" : "Thomas",
+      "brand" : 3
+    } ],
+    "staff" : [ {
+      "id" : 1001,
+      "first_name" : "Clemens",
+      "last_name" : "Muenzer",
+      "role" : "Dev",
+      "hireDate" : "2020-01-10"
+    }, {
+      "id" : 1002,
+      "first_name" : "Albin",
+      "last_name" : "Albin",
+      "role" : "Tech",
+      "hireDate" : "2019-03-22"
+    }, {
+      "id" : 1003,
+      "first_name" : "Thomas",
+      "last_name" : "Standegger",
+      "role" : "Manager",
+      "hireDate" : "2018-05-17"
+    } ]
+  } ]
+}
