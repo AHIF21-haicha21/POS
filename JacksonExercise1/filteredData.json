@@ -1,0 +1,25 @@
+[ {
+  "name" : "John Doe",
+  "age" : 30,
+  "address" : {
+    "street" : "Main Street 1",
+    "city" : "Berlin",
+    "zipcode" : 10115
+  },
+  "company" : {
+    "name" : "TechCorp",
+    "industry" : "IT"
+  }
+}, {
+  "name" : "Hanna Fischer",
+  "age" : 33,
+  "address" : {
+    "street" : "King Street 7",
+    "city" : "Berlin",
+    "zipcode" : 10119
+  },
+  "company" : {
+    "name" : "TechCorp",
+    "industry" : "IT"
+  }
+} ]
