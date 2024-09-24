@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Fleet>
+    <Vehicle id="V001">
+        <type>Truck</type>
+        <manufacturer>Volvo</manufacturer>
+        <year>2018</year>
+        <km>150000</km>
+        <status>In Service</status>
+        <FuelType>DIE</FuelType>
+        <Driver id="D001">
+            <name>John Doe</name>
+            <licenseClass>Class C</licenseClass>
+            <available>true</available>
+        </Driver>
+        <Driver id="D002">
+            <name>Jane Smith</name>
+            <licenseClass>Class B</licenseClass>
+            <available>false</available>
+        </Driver>
+        <Maintenance>
+            <Record>
+                <date>2023-08-10</date>
+                <workPerformed>Oil Change</workPerformed>
+                <mechanic>Mike Johnson</mechanic>
+                <vehicle>V001</vehicle>
+            </Record>
+            <Record>
+                <date>2024-09-10</date>
+                <workPerformed>Tire Replacement</workPerformed>
+                <mechanic>Sarah Lee</mechanic>
+                <vehicle>V001</vehicle>
+            </Record>
+        </Maintenance>
+        <Insurance>
+            <company>Allianz</company>
+            <coverage>Full</coverage>
+            <expDate>2025-30-06</expDate>
+        </Insurance>
+        <Owner>
+            <name>Sven Blahowsky</name>
+            <contact>contact@logisticsco.com</contact>
+        </Owner>
+    </Vehicle>
+    <Vehicle id="V002" maintainNow="true">
+        <type>Car</type>
+        <manufacturer>Tesla</manufacturer>
+        <year>2021</year>
+        <km>60000</km>
+        <status>Available</status>
+        <FuelType>ELE</FuelType>
+        <Driver id="D003">
+            <name>Emily Davis</name>
+            <licenseClass>Class B</licenseClass>
+            <available>true</available>
+        </Driver>
+        <Maintenance>
+            <Record>
+                <date>2023-09-20</date>
+                <workPerformed>Battery Check</workPerformed>
+                <mechanic>Mike Johnson</mechanic>
+                <vehicle>V002</vehicle>
+            </Record>
+        </Maintenance>
+        <Insurance>
+            <company>Progressive</company>
+            <coverage>Liability</coverage>
+            <expDate>2024-15-09</expDate>
+        </Insurance>
+        <Owner>
+            <name>Tech Solutions</name>
+            <contact>info@techsolutions.com</contact>
+        </Owner>
+    </Vehicle>
+    <Vehicle id="V003" maintainNow="true">
+        <type>Van</type>
+        <manufacturer>Mercedes</manufacturer>
+        <year>2019</year>
+        <km>90000</km>
+        <status>In Service</status>
+        <FuelType>DIE</FuelType>
+        <Driver id="D004">
+            <name>Sam Wilson</name>
+            <licenseClass>Class B</licenseClass>
+            <available>true</available>
+        </Driver>
+        <Maintenance>
+            <Record>
+                <date>2023-06-05</date>
+                <workPerformed>Brake Replacement</workPerformed>
+                <mechanic>James Brown</mechanic>
+            </Record>
+            <Record>
+                <date>2024-03-22</date>
+                <workPerformed>Transmission Repair</workPerformed>
+                <mechanic>Sarah Lee</mechanic>
+            </Record>
+        </Maintenance>
+        <Insurance>
+            <company>State Farm</company>
+            <coverage>Comprehensive</coverage>
+            <expDate>2025-01-05</expDate>
+        </Insurance>
+        <Owner>
+            <name>Courier Express</name>
+            <contact>info@courierexpress.com</contact>
+        </Owner>
+    </Vehicle>
+    <Vehicle id="V004" maintainNow="true">
+        <type>SUV</type>
+        <manufacturer>BMW</manufacturer>
+        <year>2020</year>
+        <km>45000</km>
+        <status>Available</status>
+        <FuelType>PET</FuelType>
+        <Driver id="D005">
+            <name>Laura Hill</name>
+            <licenseClass>Class B</licenseClass>
+            <available>true</available>
+        </Driver>
+        <Maintenance>
+            <Record>
+                <date>2024-04-10</date>
+                <workPerformed>Engine Check</workPerformed>
+                <mechanic>Sarah Lee</mechanic>
+            </Record>
+        </Maintenance>
+        <Insurance>
+            <company>Geico</company>
+            <coverage>Liability</coverage>
+            <expDate>2024-20-11</expDate>
+        </Insurance>
+        <Owner>
+            <name>Adventure Rentals</name>
+            <contact>info@adventurerentals.com</contact>
+        </Owner>
+    </Vehicle>
+    <Vehicle id="V005" maintainNow="true">
+        <type>Motorcycle</type>
+        <manufacturer>Harley Davidson</manufacturer>
+        <year>2022</year>
+        <km>15000</km>
+        <status>Available</status>
+        <FuelType>PET</FuelType>
+        <Driver id="D006">
+            <name>Chris Evans</name>
+            <licenseClass>Class M</licenseClass>
+            <available>true</available>
+        </Driver>
+        <Maintenance>
+            <Record>
+                <date>2023-12-01</date>
+                <workPerformed>Chain Replacement</workPerformed>
+                <mechanic>James Brown</mechanic>
+            </Record>
+        </Maintenance>
+        <Insurance>
+            <company>Liberty Mutual</company>
+            <coverage>Comprehensive</coverage>
+            <expDate>2025-10-01</expDate>
+        </Insurance>
+        <Owner>
+            <name>Ride Adventures</name>
+            <contact>contact@rideadventures.com</contact>
+        </Owner>
+    </Vehicle>
+    <Vehicle id="V006" maintainNow="true">
+        <type>Car</type>
+        <manufacturer>Tesla</manufacturer>
+        <year>2024</year>
+        <km>10000</km>
+        <status>Available</status>
+        <FuelType>ELE</FuelType>
+        <Maintenance/>
+        <Insurance>
+            <company>Allianz</company>
+            <coverage>Full</coverage>
+            <expDate>2030-12-11</expDate>
+        </Insurance>
+        <Owner>
+            <name>Blahowsky rental</name>
+            <contact>blasva21@htl-kaindorf.at</contact>
+        </Owner>
+    </Vehicle>
+</Fleet>

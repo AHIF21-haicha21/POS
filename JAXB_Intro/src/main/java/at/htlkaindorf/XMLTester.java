@@ -7,17 +7,29 @@ import at.htlkaindorf.pojos.Teacher;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Marshaller;
+import org.w3c.dom.Element;
 
+import javax.xml.namespace.QName;
 import java.io.File;
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class XMLTester {
 
     // Write the XML file
     public void marshall() throws JAXBException {
-        SchoolClass schoolClass = new SchoolClass(1256, "4AHIF", 1.4f, LocalDate.of(2024, 9, 9), ClassRanking.A, List.of(1, 2, 3, 4), new Teacher());
+        SchoolClass schoolClass = SchoolClass.builder()
+                .id(1256)
+                .name("4AHIF")
+                .avgGrade(1.4f)
+                .startDate(LocalDate.of(2024, 9, 9))
+                .ranking(ClassRanking.A)
+                .grades(List.of(1,2,3,4))
+                .classTeacher(new Teacher())
+                .build();
 
         schoolClass.getClassTeacher().setFirstName("Theresa");
         schoolClass.getClassTeacher().setLastName("Reischl");
@@ -39,6 +51,13 @@ public class XMLTester {
         SchoolClass schoolClass = (SchoolClass) context.createUnmarshaller().unmarshal(new File("schoolClass.xml"));
 
         System.out.println(schoolClass);
+        for (Map.Entry<QName, String> entry : schoolClass.getAttributes().entrySet()) {
+            System.out.println(entry.getKey() + ": " + entry.getValue());
+        }
+
+        for (Element element : schoolClass.getElements()) {
+            System.out.println(element.getTagName() + ": " + element.getTextContent());
+        }
     }
 
     public static void main(String[] args) throws JAXBException {
