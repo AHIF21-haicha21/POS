@@ -20,8 +20,8 @@ public class City {
 
     private String postalCode;
 
+    @XmlIDREF
     @ToString.Exclude
-    @XmlTransient
     private Country country;
 
     @XmlElementWrapper(name="Customers")

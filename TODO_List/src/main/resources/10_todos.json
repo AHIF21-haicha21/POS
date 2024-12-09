@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Prepare Math Exam",
+    "description": "Revise algebra and geometry for the upcoming exam.",
+    "importance": "CRITICAL",
+    "date": "30.11.2024",
+    "dueDate": "05.12.2024",
+    "catId": 1
+  },
+  {
+    "id": 2,
+    "title": "Submit Project Proposal",
+    "description": "Finalize and submit the proposal for the school science fair.",
+    "importance": "URGENT",
+    "date": "30.11.2024",
+    "dueDate": "02.12.2024",
+    "catId": 1
+  },
+  {
+    "id": 3,
+    "title": "Family Movie Night",
+    "description": "Plan a cozy movie night with the family.",
+    "importance": "UNIMPORTANT",
+    "date": "30.11.2024",
+    "dueDate": "03.12.2024",
+    "catId": 2
+  },
+  {
+    "id": 4,
+    "title": "Call Mom",
+    "description": "Catch up with mom over the phone.",
+    "importance": "IMPORTANT",
+    "date": "30.11.2024",
+    "dueDate": "01.12.2024",
+    "catId": 2
+  },
+  {
+    "id": 5,
+    "title": "Order POS Terminal",
+    "description": "Research and order a POS terminal for the new store.",
+    "importance": "CRITICAL",
+    "date": "30.11.2024",
+    "dueDate": "04.12.2024",
+    "catId": 3
+  },
+  {
+    "id": 6,
+    "title": "Setup Inventory",
+    "description": "Prepare inventory for the POS system.",
+    "importance": "URGENT",
+    "date": "30.11.2024",
+    "dueDate": "06.12.2024",
+    "catId": 3
+  },
+  {
+    "id": 7,
+    "title": "Buy Groceries",
+    "description": "Purchase vegetables, fruits, and milk for the week.",
+    "importance": "IMPORTANT",
+    "date": "30.11.2024",
+    "dueDate": "01.12.2024",
+    "catId": 4
+  },
+  {
+    "id": 8,
+    "title": "Get Winter Clothes",
+    "description": "Shop for jackets, gloves, and boots.",
+    "importance": "IRRELEVANT",
+    "date": "30.11.2024",
+    "dueDate": "10.12.2024",
+    "catId": 4
+  },
+  {
+    "id": 9,
+    "title": "Update School Notes",
+    "description": "Organize notes for biology and chemistry lessons.",
+    "importance": "IMPORTANT",
+    "date": "30.11.2024",
+    "dueDate": "03.12.2024",
+    "catId": 1
+  },
+  {
+    "id": 10,
+    "title": "Book Dentist Appointment",
+    "description": "Schedule a routine check-up with the dentist.",
+    "importance": "URGENT",
+    "date": "30.11.2024",
+    "dueDate": "05.12.2024",
+    "catId": 2
+  }
+]

@@ -14,7 +14,8 @@ import java.util.List;
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Country {
 
-    private short countryId;
+    @XmlID
+    private String countryId;
 
     private String countryName;
 

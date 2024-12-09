@@ -105,7 +105,7 @@ public class Main {
             System.out.println("Data loaded successfully!");
 
         } catch (JAXBException e) {
-            System.out.println("Error loading data");
+            System.out.println("Error loading data" + e);
         }
 
         System.out.println("press ENTER to continue");

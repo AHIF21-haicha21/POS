@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Fleet>
-    <Vehicle id="V001">
+    <Vehicle id="V001" maintainNow="true">
         <type>Truck</type>
         <manufacturer>Volvo</manufacturer>
         <year>2018</year>

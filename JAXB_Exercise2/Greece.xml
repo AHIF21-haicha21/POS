@@ -8,6 +8,7 @@
             <cityId>0</cityId>
             <cityName>Skoútari</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -22,6 +23,7 @@
             <cityId>0</cityId>
             <cityName>Lamía</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -36,6 +38,7 @@
             <cityId>0</cityId>
             <cityName>Ávato</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -57,6 +60,7 @@
             <cityId>0</cityId>
             <cityName>Vónitsa</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -71,6 +75,7 @@
             <cityId>0</cityId>
             <cityName>Kilkís</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -85,6 +90,7 @@
             <cityId>0</cityId>
             <cityName>Kostakioí</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -99,6 +105,7 @@
             <cityId>0</cityId>
             <cityName>Thessaloníki</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -113,6 +120,7 @@
             <cityId>0</cityId>
             <cityName>Émponas</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -127,6 +135,7 @@
             <cityId>0</cityId>
             <cityName>Néa Vrasná</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -141,6 +150,7 @@
             <cityId>0</cityId>
             <cityName>Karditsomagoúla</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -155,6 +165,7 @@
             <cityId>0</cityId>
             <cityName>Gastoúni</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -169,6 +180,7 @@
             <cityId>0</cityId>
             <cityName>Lefkímmi</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -183,6 +195,7 @@
             <cityId>0</cityId>
             <cityName>Kyriáki</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -197,6 +210,7 @@
             <cityId>0</cityId>
             <cityName>Loutrá</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -211,6 +225,7 @@
             <cityId>0</cityId>
             <cityName>Néa Pélla</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -225,6 +240,7 @@
             <cityId>0</cityId>
             <cityName>Megalochórion</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -239,6 +255,7 @@
             <cityId>0</cityId>
             <cityName>Sérifos</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -253,6 +270,7 @@
             <cityId>0</cityId>
             <cityName>Cholargós</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -267,6 +285,7 @@
             <cityId>0</cityId>
             <cityName>Makrochóri</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -281,6 +300,7 @@
             <cityId>0</cityId>
             <cityName>Nigríta</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>
@@ -295,6 +315,7 @@
             <cityId>0</cityId>
             <cityName>Perivóli</cityName>
             <postalCode></postalCode>
+            <country>0</country>
             <Customers>
                 <Customer>
                     <customerId>0</customerId>

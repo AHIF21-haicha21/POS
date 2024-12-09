@@ -1,0 +1,67 @@
+[ {
+  "carVin" : "WBA3V5C53EP759837",
+  "holders" : [ {
+    "name" : "Nico",
+    "age" : 17,
+    "city" : "Rottenmann"
+  }, {
+    "name" : "Din",
+    "age" : 17,
+    "city" : "Graz"
+  }, {
+    "name" : "Franca",
+    "age" : 18,
+    "city" : "Graz"
+  } ],
+  "brand" : "Mazda",
+  "model" : "B-Series",
+  "modelYear" : 1989
+}, {
+  "carVin" : "JH4KA96531C429905",
+  "holders" : [ {
+    "name" : "Din",
+    "age" : 17,
+    "city" : "Graz"
+  }, {
+    "name" : "Franca",
+    "age" : 18,
+    "city" : "Graz"
+  } ],
+  "brand" : "Eagle",
+  "model" : "Talon",
+  "modelYear" : 1996
+}, {
+  "carVin" : "19UUA8F24DA442352",
+  "holders" : [ {
+    "name" : "Franca",
+    "age" : 18,
+    "city" : "Graz"
+  } ],
+  "brand" : "Mitsubishi",
+  "model" : "Galant",
+  "modelYear" : 2000
+}, {
+  "carVin" : "19UUA56702A126356",
+  "holders" : [ {
+    "name" : "Franca",
+    "age" : 18,
+    "city" : "Graz"
+  } ],
+  "brand" : "Dodge",
+  "model" : "Avenger",
+  "modelYear" : 2009
+}, {
+  "carVin" : "WBAWL13537P359856",
+  "holders" : [ {
+    "name" : "Franca",
+    "age" : 18,
+    "city" : "Graz"
+  }, {
+    "name" : "Din",
+    "age" : 17,
+    "city" : "Graz"
+  } ],
+  "brand" : "Ferrari",
+  "model" : "612 Scaglietti",
+  "modelYear" : 2008
+} ]

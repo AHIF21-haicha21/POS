@@ -56,4 +56,5 @@ public class SchoolClass
 
     @XmlAnyElement // All other non-mapped attributes
     private List<Element> elements = new ArrayList<>();
+
 }

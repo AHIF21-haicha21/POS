@@ -1,0 +1,34 @@
+[
+  {
+    "name": "HTBLA Kaindorf",
+    "date": "2024-09-09",
+    "students": [
+      {
+        "name": "Paul",
+        "age": 14
+      },
+      {
+        "name": "Paul",
+        "age": 14
+      },
+      {
+        "name": "Paul",
+        "age": 14
+      }
+    ]
+  },
+  {
+    "name": "HAK Leibnitz",
+    "date": "2024-09-12",
+    "students": [
+      {
+        "name": "Paul",
+        "age": 14
+      },
+      {
+        "name": "Paul",
+        "age": 14
+      }
+    ]
+  }
+]

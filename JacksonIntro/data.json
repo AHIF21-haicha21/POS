@@ -1,0 +1,13 @@
+[ {
+  "productName" : "Table",
+  "height" : 1.6,
+  "width" : 0.76,
+  "depth" : 0.0,
+  "difficulty" : "MEDIUM"
+}, {
+  "productName" : "bed",
+  "height" : 1.6,
+  "width" : 2.0,
+  "depth" : 0.5,
+  "difficulty" : "HARD"
+} ]

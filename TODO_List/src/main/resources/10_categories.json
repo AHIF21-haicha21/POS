@@ -1,0 +1,22 @@
+[
+  {
+    "catId": 1,
+    "name": "School",
+    "description": ""
+  },
+  {
+    "catId": 2,
+    "name": "Private",
+    "description": ""
+  },
+  {
+    "catId": 3,
+    "name": "POS",
+    "description": "Preparations for POS"
+  },
+  {
+    "catId": 4,
+    "name": "Shopping",
+    "description": "Groceries shopping"
+  }
+]
