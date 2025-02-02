@@ -1,0 +1,186 @@
+{
+	"Schule": {
+		"Lehrer": [
+			{
+				"Kürzel": "RC",
+				"Titel": "Mag",
+				"Familienname": "Reischl",
+				"Vorname": "Theresa",
+				"Klasse": "1AHIF",
+				"Schüler": "36",
+				"Raum": "1.1.8"
+			},
+			{
+				"Kürzel": "JM",
+				"Titel": "Mag",
+				"Familienname": "Jörgen",
+				"Vorname": "Miriam",
+				"Klasse": "1BHIF",
+				"Schüler": "35",
+				"Raum": "1.1.5"
+			},
+			{
+				"Kürzel": "WU",
+				"Titel": "DI",
+				"Familienname": "Wurzinger",
+				"Vorname": "Johann",
+				"Klasse": "1CHIF",
+				"Schüler": "36",
+				"Raum": "1.1.3"
+			},
+			{
+				"Kürzel": "WS",
+				"Titel": "Mag",
+				"Familienname": "Welser",
+				"Vorname": "Martina",
+				"Klasse": "1DHIF",
+				"Schüler": "35",
+				"Raum": "1.3.2"
+			},
+			{
+				"Kürzel": "PD",
+				"Titel": "DI",
+				"Familienname": "Paulus",
+				"Vorname": "Dietmar",
+				"Klasse": "2AHIF",
+				"Schüler": "28",
+				"Raum": "1.1.2"
+			},
+			{
+				"Kürzel": "SL",
+				"Titel": "DI",
+				"Familienname": "Stadler",
+				"Vorname": "Werner",
+				"Klasse": "2BHIF",
+				"Schüler": "27",
+				"Raum": "1.2.3"
+			},
+			{
+				"Kürzel": "BA",
+				"Titel": "Mag",
+				"Familienname": "Bauer",
+				"Vorname": "Renate",
+				"Klasse": "2CHIF",
+				"Schüler": "31",
+				"Raum": "1.1.4"
+			},
+			{
+				"Kürzel": "ED",
+				"Titel": "Mag",
+				"Familienname": "Eder-Skof",
+				"Vorname": "Heike",
+				"Klasse": "2DHIF",
+				"Schüler": "32",
+				"Raum": "1.2.1"
+			},
+			{
+				"Kürzel": "FA",
+				"Titel": "DI",
+				"Familienname": "Farmer",
+				"Vorname": "Johannes",
+				"Klasse": "3AHIF",
+				"Schüler": "23",
+				"Raum": "1.1.11"
+			},
+			{
+				"Kürzel": "RI",
+				"Titel": "DI",
+				"Familienname": "Riesel",
+				"Vorname": "Ursula",
+				"Klasse": "3BHIF",
+				"Schüler": "24",
+				"Raum": "1.10.10"
+			},
+			{
+				"Kürzel": "TA",
+				"Titel": "Mag",
+				"Familienname": "Taucher",
+				"Vorname": "Christian",
+				"Klasse": "3CHIF",
+				"Schüler": "27",
+				"Raum": "2.1.6"
+			},
+			{
+				"Kürzel": "TD",
+				"Titel": "Mag",
+				"Familienname": "Taucher",
+				"Vorname": "Dagmar",
+				"Klasse": "3DHIF",
+				"Schüler": "29",
+				"Raum": "2.3.4"
+			},
+			{
+				"Kürzel": "BO",
+				"Titel": "Mag",
+				"Familienname": "Bogensperger",
+				"Vorname": "Karin",
+				"Klasse": "4AHIF",
+				"Schüler": "21",
+				"Raum": "2.2.3"
+			},
+			{
+				"Kürzel": "LO",
+				"Titel": "Mag",
+				"Familienname": "Locker",
+				"Vorname": "Elisabeth",
+				"Klasse": "4BHIF",
+				"Schüler": "19",
+				"Raum": "2.2.1"
+			},
+			{
+				"Kürzel": "LB",
+				"Titel": "DI",
+				"Familienname": "Loibner",
+				"Vorname": "Gernot",
+				"Klasse": "4CHIF",
+				"Schüler": "23",
+				"Raum": "2.13.6"
+			},
+			{
+				"Kürzel": "HU",
+				"Titel": "Mag",
+				"Familienname": "Hugeri",
+				"Vorname": "Iris",
+				"Klasse": "4DHIF",
+				"Schüler": "13",
+				"Raum": "2.10.1"
+			},
+			{
+				"Kürzel": "KW",
+				"Titel": "DI",
+				"Familienname": "Kohlweg",
+				"Vorname": "Christoph",
+				"Klasse": "9AHIF",
+				"Schüler": "18",
+				"Raum": "2.6.3"
+			},
+			{
+				"Kürzel": "SC",
+				"Titel": "DI",
+				"Familienname": "Schreiber",
+				"Vorname": "Florian",
+				"Klasse": "9BHIF",
+				"Schüler": "25",
+				"Raum": "2.7.4"
+			},
+			{
+				"Kürzel": "WI",
+				"Titel": "DI",
+				"Familienname": "Wilfling",
+				"Vorname": "Manfred",
+				"Klasse": "9CHIF",
+				"Schüler": "28",
+				"Raum": "2.1.17"
+			},
+			{
+				"Kürzel": "PO",
+				"Titel": "DI Dr",
+				"Familienname": "Pölzleitner",
+				"Vorname": "Wolfgang",
+				"Klasse": "9DHIF",
+				"Schüler": "32",
+				"Raum": "2.3.9"
+			}
+		]
+	}
+}
