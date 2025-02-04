@@ -1,5 +1,6 @@
 package at.htlkaindorf.jpa_classinfo.pojos;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.*;
 
@@ -17,6 +18,7 @@ public class Room {
 
     @OneToOne(mappedBy =  "room", cascade = {CascadeType.MERGE, CascadeType.PERSIST})
     @ToString.Exclude
+    @JsonIgnore
     private HTLClass htlClass;
 
     @Enumerated(EnumType.STRING)

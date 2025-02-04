@@ -114,7 +114,9 @@ public class DatabaseInitializer implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
-        importTables();
+        if(ddlAuto.equals("create"))
+            importTables();
         testQueries();
+
     }
 }

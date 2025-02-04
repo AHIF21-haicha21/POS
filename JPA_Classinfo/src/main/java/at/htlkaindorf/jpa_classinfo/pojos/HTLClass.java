@@ -1,6 +1,7 @@
 package at.htlkaindorf.jpa_classinfo.pojos;
 
 import at.htlkaindorf.jpa_classinfo.repositories.ClassTeacherRepository;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.*;
 
@@ -21,6 +22,7 @@ public class HTLClass {
     @OneToOne(cascade = {CascadeType.MERGE, CascadeType.PERSIST})
     @JoinColumn(name = "class_teacher_id")
     @ToString.Exclude
+    @JsonIgnore
     private ClassTeacher classTeacher;
     @OneToOne(cascade = {CascadeType.MERGE, CascadeType.PERSIST})
     @JoinColumn(name = "room_id")
