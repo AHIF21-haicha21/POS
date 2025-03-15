@@ -25,6 +25,12 @@ public class Publisher {
     private String name;
 
     @OneToMany(mappedBy = "publisher", cascade = {CascadeType.MERGE, CascadeType.PERSIST})
+    /*
+    * @JsonManagedReference
+    * Kommt immer an die Liste bei einer "JSON-Beziehung"
+    * Auf das Rückführende-Objekt, hier der publisher im Buch, kommt
+    * @JsonBackReference
+    * */
     @JsonManagedReference
     private List<Book> books = new ArrayList<>();
 }
