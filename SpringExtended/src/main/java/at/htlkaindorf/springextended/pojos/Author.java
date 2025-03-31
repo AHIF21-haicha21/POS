@@ -2,6 +2,7 @@ package at.htlkaindorf.springextended.pojos;
 
 import jakarta.persistence.*;
 import lombok.*;
+import org.mapstruct.Mapping;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

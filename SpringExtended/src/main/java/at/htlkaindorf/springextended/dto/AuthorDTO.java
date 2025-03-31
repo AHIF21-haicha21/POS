@@ -4,10 +4,15 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.time.LocalDate;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class PublisherDTO {
-    private Long id;
-    private String name;
+public class AuthorDTO {
+
+    private String authorId;
+    private String authorName;
+    private LocalDate birthDate;
+
 }
