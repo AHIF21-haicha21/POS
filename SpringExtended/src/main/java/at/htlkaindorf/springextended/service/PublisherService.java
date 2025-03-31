@@ -28,4 +28,12 @@ public class PublisherService {
         return publisherMapper.toDTO(publisher);
 
     }
+
+    public PublisherDTO createPublisher(PublisherDTO publisherDto) {
+        Publisher publisher = publisherRepository.save(
+                publisherMapper.toEntity(publisherDto)
+        );
+
+        return publisherMapper.toDTO(publisher);
+    }
 }
