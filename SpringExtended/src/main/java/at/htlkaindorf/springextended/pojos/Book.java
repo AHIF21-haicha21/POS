@@ -10,6 +10,9 @@ import java.time.LocalDate;
 @NoArgsConstructor
 @Builder
 @Entity
+@NamedQueries({
+        @NamedQuery(name = "Book.findByTitle", query = "SELECT b FROM Book b WHERE b.title = :title")
+})
 public class Book {
     @Id
     @SequenceGenerator(name = "book_sequence", sequenceName = "book_sequence")
